@@ -84,10 +84,10 @@
 - i32 dataset link provided in the begining
 
 ### Results:
-![Alt Text](URL or Path to Image)
-![Alt Text](URL or Path to Image)
-![Alt Text](URL or Path to Image)
-![Alt Text](URL or Path to Image)
+![3D Visualization of two classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/autoencoder_mfcc_wall_16.png)
+![2D Visualization of two classes](URL or Path to Image)
+![3D Visualization of many classes](URL or Path to Image)
+![Results of SVM model](URL or Path to Image)
 
 
 ## Visualize pore distribution
