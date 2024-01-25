@@ -121,6 +121,7 @@
 ![Pore diameter distribution by class]()
 ![Pore distribution by layer](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_2.png)
 ![Pore distribution by class](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_1.png)
+![Pore distribution by wall](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_3.png)
 ![Pore diameter distribution by class]()
 ![Correlation matrix]()
 
