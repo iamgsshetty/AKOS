@@ -119,7 +119,7 @@
 ![Pore distribution along fit12 layers](https://github.com/iamgsshetty/AKOS/blob/main/Results/pore_distribution_scatter_plot.png)
 ![Pore diameter distribution in fit12 by layer]()
 ![Pore diameter distribution by class]()
-![Pore distribution by layer]()
+![Pore distribution by layer](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_2.png)
 ![Pore distribution by class](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_1.png)
 ![Pore diameter distribution by class]()
 ![Correlation matrix]()
