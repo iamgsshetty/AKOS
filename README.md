@@ -81,12 +81,17 @@
 - **Step 2:** Run akos_mfcc_dataset to extract mfcc features and store it in .txt file.
 - **Step 3:** Run akos_plot_encoder to run autoencoder on the mfcc dataset created in step 2 to reduce dimension to 3D and plot it.
 - **Step 4:** Run akos_visual_seperate_pores.py to further reduce the encoded 3D data to 2D for better visualization using kernel principal compnent analysis.
+- **Step 5:** Run akos_prediction_svm.py to train SVM model on the dataset (Note: only data of 200 layers used for training)
 - i32 dataset link provided in the begining
 
 ### Results:
+### Output of step 3 on wall 16 which has layer welded with 50% gas concentration
 ![3D Visualization of two classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/autoencoder_mfcc_wall_16.png)
+### Output of step 4 on wall 16 which has layer welded with 50% gas concentration
 ![2D Visualization of two classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/kpca_auto_zoom_wall_16.png)
+### Output of step 3 on layers taken from each class (Oil, gas 50, gas 80, gas 70, gas 90)
 ![3D Visualization of many classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_1_encoded%20feature.png)
+### Output of step 5
 ![Results of SVM model](https://github.com/iamgsshetty/AKOS/blob/main/Results/Screenshot%202024-01-25%20114000.png)
 
 
