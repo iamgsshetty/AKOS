@@ -37,7 +37,6 @@
 
 ## Procedure to run the code
 ### Python Modules Used:
-
 #### 1. Librosa
 - Librosa is a Python package for music and audio analysis. It provides tools for feature extraction, time-series analysis, and more.
 
@@ -77,6 +76,7 @@
 #### 13. Seaborn
 - Seaborn is a statistical data visualization library based on Matplotlib, providing a high-level interface for drawing informative graphics.
 
+### Steps to execute the codes:
 - **Step 1:** Run data_pros_akos to convert i32 file to .txt file for further processing.
 - **Step 2:** Run akos_mfcc_dataset to extract mfcc features and store it in .txt file.
 - **Step 3:** Run akos_plot_encoder to run autoencoder on the mfcc dataset created in step 2 to reduce dimension to 3D and plot it.
