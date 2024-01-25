@@ -87,7 +87,7 @@
 ![3D Visualization of two classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/autoencoder_mfcc_wall_16.png)
 ![2D Visualization of two classes](URL or Path to Image)
 ![3D Visualization of many classes](https://github.com/iamgsshetty/AKOS/blob/main/Results/Figure_1_encoded%20feature.png)
-![Results of SVM model](URL or Path to Image)
+![Results of SVM model](https://github.com/iamgsshetty/AKOS/blob/main/Results/Screenshot%202024-01-25%20114000.png)
 
 
 ## Visualize pore distribution
