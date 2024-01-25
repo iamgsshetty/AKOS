@@ -26,15 +26,21 @@
 - Explore deep learning techniques for analysis.
 
 ## Deep Learning Approach
-- Utilize deep learning models (e.g., CNNs or RNNs) to process signal data and extract features.
+- Utilized autoencoder to reduce mfcc dataset dimension to 3D 
 - Train the model on the dataset, considering welding variations for each wall.
-- Use MFCC features as input for recognizing pores.
-- Utilize wall 17 data as ideal for training, given its least porous nature.
+- Use MFCC features dataset as input.
 
 ## Evaluation
 - Evaluate the trained model's performance on a separate test set to ensure generalization.
 - Metrics: Accuracy, precision, recall, and F1 score.
 
-## Documentation and Reporting
-- Document the entire process, including data preprocessing, model architecture, training parameters, and evaluation results.
-- Provide clear insights into the identification of pores using the chosen approach.
+## Procedure to run the code.
+- **Step 1:** Run data_pros_akos to convert i32 file to .txt file for further processing.
+- **Step 2:** Run akos_mfcc_dataset to extract mfcc features and store it in .txt file.
+- **Step 3:** Run akos_plot_encoder to run autoencoder on the mfcc dataset created in step 2 to reduce dimension to 3D and plot it.
+- **Step 4:** Run akos_visual_seperate_pores.py to further reduce the encoded 3D data to 2D for better visualization using kernel principal compnent analysis.
+- i32 dataset link provided in the begining
+## Visualize pore distribution
+- Run code data_analysis.py to get plots
+  - Pore distribution histograms, Cumulative distribution plots, Violin plots for pore distribution by class, Pore distribution by layer (for a specific wall)
+- Run code data_analysis_basic.py to get plot Pore distribution by class, Pore distribution by layer, Pore distribution by wall, Correlation between variables  
