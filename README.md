@@ -1,8 +1,9 @@
 # AKOS - Acoustic Inspection of Weld Seams
 
 ## Dataset
-- Dataset used: [Download Link](https://nx21454.your-storageshare.de/s/C5SF9GKQpzHRXfT/authenticate/showShare)
+- Dataset created under AKoS project
 - Reference: [AKoS-project.de](https://www.akos-projekt.de/index.php/beitraege)
+- Dataset used: [Download Link](https://nx21454.your-storageshare.de/s/C5SF9GKQpzHRXfT/authenticate/showShare)
 
 ### Dataset Structure
 - Organized with folders representing each wall (12 to 23).
@@ -54,3 +55,4 @@
 - Run code pore_distribution.py to get plots:
   - Scatter plot for pore distribution along the layer
   - Heatmap for pore distribution along the layer  
+- Run all of these codes on dataset pores_data_fit_eng
