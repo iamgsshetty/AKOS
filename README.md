@@ -116,11 +116,11 @@
 - Run all of these codes on dataset pores_data_fit_eng
 
 ### Results:
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![Pore distribution along fit12 layers](https://github.com/iamgsshetty/AKOS/blob/main/Results/pore_distribution_scatter_plot.png)
+![Pore diameter distribution in fit12 by layer]()
+![Pore diameter distribution by class]()
+![Pore distribution by layer]()
+![Pore distribution by class]()
+![Pore diameter distribution by class]()
+![Correlation matrix]()
 
