@@ -35,7 +35,7 @@
 - Evaluate the trained model's performance on a separate test set to ensure generalization.
 - Metrics: Accuracy, precision, recall, and F1 score.
 
-## Procedure to run the code
+## Procedure
 ### Python Modules Used:
 #### 1. Librosa
 - Librosa is a Python package for music and audio analysis. It provides tools for feature extraction, time-series analysis, and more.
