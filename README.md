@@ -1,8 +1,8 @@
 # AKOS - Acoustic Inspection of Weld Seams
 
 ## Dataset
-Dataset used: [Download Link](https://nx21454.your-storageshare.de/s/C5SF9GKQpzHRXfT/authenticate/showShare)
-Reference: [AKoS-project.de](https://www.akos-projekt.de/index.php/beitraege)
+- Dataset used: [Download Link](https://nx21454.your-storageshare.de/s/C5SF9GKQpzHRXfT/authenticate/showShare)
+- Reference: [AKoS-project.de](https://www.akos-projekt.de/index.php/beitraege)
 
 ### Dataset Structure
 - Organized with folders representing each wall (12 to 23).
