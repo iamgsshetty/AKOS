@@ -83,6 +83,8 @@
 - **Step 4:** Run akos_visual_seperate_pores.py to further reduce the encoded 3D data to 2D for better visualization using kernel principal compnent analysis.
 - i32 dataset link provided in the begining
 
+### Results:
+
 
 ## Visualize pore distribution
 - **Modules Required:**
@@ -103,3 +105,5 @@
   - Scatter plot for pore distribution along the layer
   - Heatmap for pore distribution along the layer  
 - Run all of these codes on dataset pores_data_fit_eng
+
+### Results:
