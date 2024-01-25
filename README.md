@@ -84,6 +84,10 @@
 - i32 dataset link provided in the begining
 
 ### Results:
+![Alt Text](URL or Path to Image)
+![Alt Text](URL or Path to Image)
+![Alt Text](URL or Path to Image)
+![Alt Text](URL or Path to Image)
 
 
 ## Visualize pore distribution
