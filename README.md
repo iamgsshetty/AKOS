@@ -41,6 +41,16 @@
 - **Step 4:** Run akos_visual_seperate_pores.py to further reduce the encoded 3D data to 2D for better visualization using kernel principal compnent analysis.
 - i32 dataset link provided in the begining
 ## Visualize pore distribution
-- Run code data_analysis.py to get plots
-  - Pore distribution histograms, Cumulative distribution plots, Violin plots for pore distribution by class, Pore distribution by layer (for a specific wall)
-- Run code data_analysis_basic.py to get plot Pore distribution by class, Pore distribution by layer, Pore distribution by wall, Correlation between variables  
+- Run code data_analysis.py to get plots:
+  - Pore distribution histograms
+  - Cumulative distribution plots
+  - Violin plots for pore distribution by class
+  - Pore distribution by layer (for a specific wall)
+- Run code data_analysis_basic.py to get plots:
+  - Pore distribution by class
+  - Pore distribution by layer
+  - Pore distribution by wall
+  - Correlation between variables
+- Run code pore_distribution.py to get plots:
+  - Scatter plot for pore distribution along the layer
+  - Heatmap for pore distribution along the layer  
